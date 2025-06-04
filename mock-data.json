@@ -1,0 +1,422 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Books"
+    },
+    {
+      "id": 3,
+      "name": "Clothing"
+    },
+    {
+      "id": 4,
+      "name": "Home"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Noise-Cancelling Headphones",
+      "description": "Over-ear Bluetooth headphones with active noise cancellation and 30-hour battery life.",
+      "price": 199.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Wireless+Noise-Cancelling+Headphones",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Smartphone 5G Pro",
+      "description": "6.5-inch display, 128GB storage, 8GB RAM, triple-camera system, and 5G connectivity.",
+      "price": 699.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Smartphone+5G+Pro",
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "E-reader Tablet",
+      "description": "6-inch glare-free touchscreen e-reader with adjustable warm light and 8GB storage.",
+      "price": 119.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=E-reader+Tablet",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "description": "Portable waterproof Bluetooth speaker with deep bass and 12-hour playtime.",
+      "price": 59.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Bluetooth+Speaker",
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "4K UHD Monitor",
+      "description": "27-inch 4K UHD monitor with HDR support and adjustable stand.",
+      "price": 349.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=4K+UHD+Monitor",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Gaming Laptop",
+      "description": "15.6-inch gaming laptop with NVIDIA GTX 1660 Ti, 16GB RAM, and 512GB SSD.",
+      "price": 1299.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Gaming+Laptop",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI and long battery life.",
+      "price": 29.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Wireless+Mouse",
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Mechanical Keyboard",
+      "description": "RGB backlit mechanical keyboard with programmable keys and tactile switches.",
+      "price": 89.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Mechanical+Keyboard",
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Smartwatch Series 6",
+      "description": "Fitness tracking smartwatch with heart rate monitor and GPS.",
+      "price": 249.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Smartwatch+Series+6",
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "name": "Portable Charger 10000mAh",
+      "description": "Compact power bank with dual USB ports and fast charging.",
+      "price": 25.75,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Portable+Charger+10000mAh",
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Action Camera 4K",
+      "description": "Rugged action camera with 4K recording, waterproof up to 30m.",
+      "price": 139.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Action+Camera+4K",
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Noise-Cancelling Earbuds",
+      "description": "True wireless earbuds with active noise cancellation and charging case.",
+      "price": 149.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Noise-Cancelling+Earbuds",
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "Smart Home Hub",
+      "description": "Voice-controlled smart home hub with Zigbee and Z-Wave support.",
+      "price": 79.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Smart+Home+Hub",
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "name": "Hardcover Fiction Novel",
+      "description": "Bestselling mystery novel with gripping plot twists and memorable characters.",
+      "price": 22.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Hardcover+Fiction+Novel",
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Non-fiction Self-Help Book",
+      "description": "Guide to personal growth and productivity with practical exercises and tips.",
+      "price": 18.75,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Non-fiction+Self-Help+Book",
+      "categoryId": 2
+    },
+    {
+      "id": 16,
+      "name": "Paperback Sci-fi Novel",
+      "description": "Space opera saga with intergalactic adventure and political intrigue.",
+      "price": 15.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Paperback+Sci-fi+Novel",
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "name": "Children's Picture Book",
+      "description": "Colorful illustrated storybook for children aged 3-7 with fun rhymes.",
+      "price": 12.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Childrens+Picture+Book",
+      "categoryId": 2
+    },
+    {
+      "id": 18,
+      "name": "Cookbook: Healthy Recipes",
+      "description": "Over 100 healthy and easy-to-follow recipes for everyday cooking.",
+      "price": 24.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Cookbook:+Healthy+Recipes",
+      "categoryId": 2
+    },
+    {
+      "id": 19,
+      "name": "Historical Biography",
+      "description": "In-depth biography of a famous historical figure with rare insights.",
+      "price": 30.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Historical+Biography",
+      "categoryId": 2
+    },
+    {
+      "id": 20,
+      "name": "Graphic Novel: Superheroes",
+      "description": "Illustrated graphic novel featuring popular superheroes in epic battles.",
+      "price": 19.95,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Graphic+Novel:+Superheroes",
+      "categoryId": 2
+    },
+    {
+      "id": 21,
+      "name": "Travel Guide: Europe",
+      "description": "Comprehensive travel guide for exploring Europe's top destinations.",
+      "price": 27.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Travel+Guide:+Europe",
+      "categoryId": 2
+    },
+    {
+      "id": 22,
+      "name": "Mystery Paperback",
+      "description": "Whodunit thriller with unexpected twists and a shocking finale.",
+      "price": 14.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Mystery+Paperback",
+      "categoryId": 2
+    },
+    {
+      "id": 23,
+      "name": "Academic Textbook: Economics",
+      "description": "University-level economics textbook covering micro and macro concepts.",
+      "price": 89.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Academic+Textbook:+Economics",
+      "categoryId": 2
+    },
+    {
+      "id": 24,
+      "name": "Romance Novel",
+      "description": "Heartwarming romance story set in a charming small town.",
+      "price": 16.25,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Romance+Novel",
+      "categoryId": 2
+    },
+    {
+      "id": 25,
+      "name": "Poetry Collection",
+      "description": "Anthology of contemporary poetry exploring love, loss, and identity.",
+      "price": 17.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Poetry+Collection",
+      "categoryId": 2
+    },
+    {
+      "id": 26,
+      "name": "Children's Fantasy Novel",
+      "description": "Magical fantasy adventure for young readers with imaginative world-building.",
+      "price": 13.45,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Childrens+Fantasy+Novel",
+      "categoryId": 2
+    },
+    {
+      "id": 27,
+      "name": "Men's Classic Leather Jacket",
+      "description": "Genuine leather biker jacket with zipper pockets and adjustable waist straps.",
+      "price": 249.9,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Mens+Classic+Leather+Jacket",
+      "categoryId": 3
+    },
+    {
+      "id": 28,
+      "name": "Women's Running Shoes",
+      "description": "Lightweight, breathable running shoes with cushioned sole and reflective details.",
+      "price": 89.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Womens+Running+Shoes",
+      "categoryId": 3
+    },
+    {
+      "id": 29,
+      "name": "Men's Jeans",
+      "description": "Slim-fit denim jeans with stretch fabric for comfort and durability.",
+      "price": 59.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Mens+Jeans",
+      "categoryId": 3
+    },
+    {
+      "id": 30,
+      "name": "Women's T-Shirt",
+      "description": "Soft cotton T-shirt with crew neck and printed graphic design.",
+      "price": 19.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Womens+T-Shirt",
+      "categoryId": 3
+    },
+    {
+      "id": 31,
+      "name": "Kids' Hoodie",
+      "description": "Warm fleece-lined hoodie with front pocket and adjustable hood.",
+      "price": 34.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Kids+Hoodie",
+      "categoryId": 3
+    },
+    {
+      "id": 32,
+      "name": "Summer Dress",
+      "description": "Floral print summer dress with V-neck and adjustable straps.",
+      "price": 45.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Summer+Dress",
+      "categoryId": 3
+    },
+    {
+      "id": 33,
+      "name": "Baseball Cap",
+      "description": "Adjustable baseball cap with embroidered logo and moisture-wicking fabric.",
+      "price": 15.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Baseball+Cap",
+      "categoryId": 3
+    },
+    {
+      "id": 34,
+      "name": "Sports Jacket",
+      "description": "Water-resistant lightweight sports jacket with breathable lining.",
+      "price": 79.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Sports+Jacket",
+      "categoryId": 3
+    },
+    {
+      "id": 35,
+      "name": "Casual Sneakers",
+      "description": "Stylish casual sneakers with rubber sole and lace-up design.",
+      "price": 65.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Casual+Sneakers",
+      "categoryId": 3
+    },
+    {
+      "id": 36,
+      "name": "Men's Dress Shirt",
+      "description": "Slim-fit dress shirt made from cotton blend with button-down collar.",
+      "price": 39.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Mens+Dress+Shirt",
+      "categoryId": 3
+    },
+    {
+      "id": 37,
+      "name": "Women's Leggings",
+      "description": "High-waisted workout leggings with moisture-wicking fabric.",
+      "price": 29.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Womens+Leggings",
+      "categoryId": 3
+    },
+    {
+      "id": 38,
+      "name": "Scarf Wool Blend",
+      "description": "Cozy wool blend scarf with fringe edges and soft texture.",
+      "price": 24.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Scarf+Wool+Blend",
+      "categoryId": 3
+    },
+    {
+      "id": 39,
+      "name": "Electric Kettle",
+      "description": "1.7L stainless steel electric kettle with auto shut-off and boil-dry protection.",
+      "price": 49.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Electric+Kettle",
+      "categoryId": 4
+    },
+    {
+      "id": 40,
+      "name": "Stainless Steel Cookware Set (5-Piece)",
+      "description": "Durable stainless steel pots and pans set with glass lids and ergonomic handles.",
+      "price": 129.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Stainless+Steel+Cookware+Set+(5-Piece)",
+      "categoryId": 4
+    },
+    {
+      "id": 41,
+      "name": "Cotton Bed Sheet Set (Queen)",
+      "description": "4-piece 100% cotton bedding set with deep pockets and breathable fabric.",
+      "price": 59.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Cotton+Bed+Sheet+Set+(Queen)",
+      "categoryId": 4
+    },
+    {
+      "id": 42,
+      "name": "Vacuum Cleaner",
+      "description": "Bagless upright vacuum cleaner with powerful suction and HEPA filter.",
+      "price": 159.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Vacuum+Cleaner",
+      "categoryId": 4
+    },
+    {
+      "id": 43,
+      "name": "Air Purifier",
+      "description": "True HEPA air purifier for rooms up to 300 sq ft with quiet operation.",
+      "price": 129.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Air+Purifier",
+      "categoryId": 4
+    },
+    {
+      "id": 44,
+      "name": "Ceramic Vase",
+      "description": "Handcrafted ceramic vase with modern design and glossy finish.",
+      "price": 39.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Ceramic+Vase",
+      "categoryId": 4
+    },
+    {
+      "id": 45,
+      "name": "Wall Art Canvas Print",
+      "description": "High-quality canvas print featuring abstract art for home decor.",
+      "price": 69.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Wall+Art+Canvas+Print",
+      "categoryId": 4
+    },
+    {
+      "id": 46,
+      "name": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with touch controls and multiple brightness levels.",
+      "price": 29.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=LED+Desk+Lamp",
+      "categoryId": 4
+    },
+    {
+      "id": 47,
+      "name": "Kitchen Knife Set",
+      "description": "Professional 8-piece stainless steel kitchen knife set with wooden block.",
+      "price": 89.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Kitchen+Knife+Set",
+      "categoryId": 4
+    },
+    {
+      "id": 48,
+      "name": "Memory Foam Pillow",
+      "description": "Ergonomic memory foam pillow with soft bamboo cover for neck support.",
+      "price": 45.5,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Memory+Foam+Pillow",
+      "categoryId": 4
+    },
+    {
+      "id": 49,
+      "name": "Bath Towels Set (4-Piece)",
+      "description": "Luxuriously soft cotton bath towels set with high absorbency.",
+      "price": 55.0,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Bath+Towels+Set+(4-Piece)",
+      "categoryId": 4
+    },
+    {
+      "id": 50,
+      "name": "Smart Thermostat",
+      "description": "Wi-Fi enabled smart thermostat with programmable scheduling and energy saving.",
+      "price": 199.99,
+      "image": "https://via.assets.so/img.jpg?w=200&h=200&t=Smart+Thermostat",
+      "categoryId": 4
+    }
+  ]
+}

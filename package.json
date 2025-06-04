@@ -1,0 +1,23 @@
+{
+  "name": "product-explorer",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "mock-api": "json-server --watch mock-data.json --port 3001"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.4",
+    "json-server": "^0.17.4",
+    "nuxt": "^3.17.5",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.5.1",
+    "pinia": "^2.1.7"
+  }
+}
